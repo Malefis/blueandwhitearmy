@@ -23,3 +23,4 @@ export default class Jumbotron extends React.Component {
     </div>;
   }
 }
+                                   
