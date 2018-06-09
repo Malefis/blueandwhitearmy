@@ -1,5 +1,5 @@
 ---
-title: '                               Seasoon Review:  For The First Time in 21 Years'
+title: '                               Season Review:  For The First Time in 21 Years'
 date: 2018-06-09T11:28:51.207Z
 description: >
   A review of the relegation season of 2017/18, when Oldham Athletic were
