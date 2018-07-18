@@ -4,7 +4,7 @@ date: 2018-07-18T20:28:11.398Z
 description: >-
   We are running a pack the park initiative to try and raise the roof for the
   first home game of the season. 
-image: /img/pack the park info.png
+image: ''
 ---
 We are encouraging Oldham Athletic fans to bring a friend along with them to the first game of the season. We want as many fans as possible to share the information on all social media using #packthepark .
 
