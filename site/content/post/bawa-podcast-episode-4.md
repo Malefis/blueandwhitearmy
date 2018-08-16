@@ -14,8 +14,4 @@ This week I review the Forest Green and Derby games, as well as preview Macclesf
 ------------
 Listen Below:
 
-<audio controls>
-
-  <source src="https://s3.eu-west-2.amazonaws.com/blueandwhitearmy/bawa+audio+podcast.wav" type="audio/wav">
-
-</audio>
+<audio controls> <source src="https://s3.eu-west-2.amazonaws.com/blueandwhitearmy/bawa+audio+podcast.wav" type="audio/wav"></audio>
