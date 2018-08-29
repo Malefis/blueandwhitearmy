@@ -4,6 +4,7 @@ date: 2018-08-13T17:24:13.960Z
 description: >-
   The twitter craze that has taken all Oldham fans who know how to use
   photoshop. I explain the story behind it.
+image: /img/jack-byrne.png
 ---
 Everything starts in pre-season training, when Ousmane Fane broke his leg and dislocated his ankle. Rumours circulated on social media that Jack Byrne had done this during the training session and was to be punished. Soon after, Byrne was puled out of the pre-season squad and was left training with the youth team.
 
