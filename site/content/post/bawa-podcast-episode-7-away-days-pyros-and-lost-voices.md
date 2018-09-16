@@ -5,12 +5,6 @@ description: >-
   Today's audio podcast is a different one with only Rhys and Bailey. Adam lost
   his voice at Grimsby but should be back to vlog colchester at home
 ---
-<html>
+Listen to it here:
 
-<audio controls>
-
-  <source src="https://s3.eu-west-2.amazonaws.com/blueandwhitearmy/ep7.mp3" type="audio/mpeg">
-
-</audio>
-
-</html>
+<html><audio controls><source src="https://s3.eu-west-2.amazonaws.com/blueandwhitearmy/ep7.mp3" type="audio/mpeg"></audio></html>
