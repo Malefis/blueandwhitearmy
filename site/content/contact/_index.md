@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/bawalogo.png"
+logo: "/img/textlogo.svg"
 ---
 
 We love to get feedback from all of our fans. This feedback helps us to improve every aspect of the group and improve as a whole
